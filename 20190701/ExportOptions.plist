@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/eapserviceslimited/EAP-Now-iOS/releases/download/v1.39.20190701/eap.ipa</string>
+		<string>https://github.com/eapserviceslimited/EAP-Now-iOS-Download/releases/download/v1.39.20190701/eap.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://eapserviceslimited.github.io/EAP-Now-iOS/57.png</string>
+		<string>https://eapserviceslimited.github.io/EAP-Now-iOS-Download/57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://eapserviceslimited.github.io/EAP-Now-iOS/512.png</string>
+		<string>https://eapserviceslimited.github.io/EAP-Now-iOS-Download/512.png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>
