@@ -137,31 +137,6 @@
 						<string>Unknown</string>
 					</dict>
 					<key>name</key>
-					<string>Protobuf.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>J7QH43ZS73</string>
-						<key>name</key>
-						<string>EAP Services Limited</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string></string>
-						<key>dateExpires</key>
-						<string></string>
-						<key>type</key>
-						<string>Unknown</string>
-					</dict>
-					<key>name</key>
 					<string>ScrollingFollowView.framework</string>
 					<key>team</key>
 					<dict>
@@ -213,56 +188,6 @@
 					</dict>
 					<key>name</key>
 					<string>SwiftyPickerPopover.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>J7QH43ZS73</string>
-						<key>name</key>
-						<string>EAP Services Limited</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string></string>
-						<key>dateExpires</key>
-						<string></string>
-						<key>type</key>
-						<string>Unknown</string>
-					</dict>
-					<key>name</key>
-					<string>TwilioChatClient.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>J7QH43ZS73</string>
-						<key>name</key>
-						<string>EAP Services Limited</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string></string>
-						<key>dateExpires</key>
-						<string></string>
-						<key>type</key>
-						<string>Unknown</string>
-					</dict>
-					<key>name</key>
-					<string>TwilioVideo.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
