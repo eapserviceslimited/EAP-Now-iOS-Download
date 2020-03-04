@@ -187,6 +187,31 @@
 						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
+					<string>SDWebImage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>J7QH43ZS73</string>
+						<key>name</key>
+						<string>EAP Services Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>C74F3214338BF83A2D4D08BC1B465E53BB790735</string>
+						<key>dateExpires</key>
+						<string>1/20/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
 					<string>ScrollingFollowView.framework</string>
 					<key>team</key>
 					<dict>
