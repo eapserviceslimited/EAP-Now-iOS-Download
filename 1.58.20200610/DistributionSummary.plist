@@ -112,6 +112,31 @@
 						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
+					<string>FBLPromises.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>J7QH43ZS73</string>
+						<key>name</key>
+						<string>EAP Services Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>079862E8C8A0C7D597F6E8F561D51D15F23820DA</string>
+						<key>dateExpires</key>
+						<string>4/15/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
 					<string>GoogleUtilities.framework</string>
 					<key>team</key>
 					<dict>
@@ -163,6 +188,31 @@
 					</dict>
 					<key>name</key>
 					<string>IQKeyboardManagerSwift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>J7QH43ZS73</string>
+						<key>name</key>
+						<string>EAP Services Limited</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>079862E8C8A0C7D597F6E8F561D51D15F23820DA</string>
+						<key>dateExpires</key>
+						<string>4/15/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>Protobuf.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -338,31 +388,6 @@
 					</dict>
 					<key>name</key>
 					<string>nanopb.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>J7QH43ZS73</string>
-						<key>name</key>
-						<string>EAP Services Limited</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>armv7</string>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>079862E8C8A0C7D597F6E8F561D51D15F23820DA</string>
-						<key>dateExpires</key>
-						<string>4/15/21</string>
-						<key>type</key>
-						<string>Apple Development</string>
-					</dict>
-					<key>name</key>
-					<string>protobuf.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
