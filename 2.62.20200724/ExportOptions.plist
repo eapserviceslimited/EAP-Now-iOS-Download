@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/eapserviceslimited/EAP-Now-iOS-Download/releases/download/v2.62.20200724/eap.ipa</string>
+		<string>https://github.com/eapserviceslimited/EAP-Now-iOS-Download/releases/download/v2.62.20200727/eap.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://eapserviceslimited.github.io/EAP-Now-iOS-Download/57.png</string>
 		<key>fullSizeImageURL</key>
